@@ -1,4 +1,4 @@
-# 📱 QuickQR
+# QuickQR
 
 A simple and lightweight web app to generate QR codes instantly.  
 Users can enter text, URLs, or other data and download the QR code as an image.
