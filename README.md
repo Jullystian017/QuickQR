@@ -1,8 +1,38 @@
-<p align="justify">A QR CODE Generator Webpage using API</p>
+# 📱 QuickQR
 
-:star: Star me on GitHub — it helps!
+A simple and lightweight web app to generate QR codes instantly.  
+Users can enter text, URLs, or other data and download the QR code as an image.
 
-## Tools Used 🛠️
-* [<b>GitHub</b>](https://github.com/) - To host my static website.
-* [<b>HTML, CSS, JS</b>](https://www.w3schools.com/css/default.asp) - To create UI of this webpage.
-* [<b>QR Code API</b>](https://goqr.me/api/) - To Generate QR.
+---
+
+## ✨ Features
+- 🔗 Generate QR codes from text, links, or any data  
+- 🎨 Customize QR code color and size  
+- 📥 Download results as PNG  
+- ⚡ Fast, lightweight, and framework-free (pure HTML, CSS, JS)  
+- 📱 Responsive design, works on desktop and mobile  
+
+---
+
+## 🚀 How to Use
+1. Enter text or a URL in the input field  
+2. Click **Generate QR**  
+3. The QR code will appear instantly  
+4. Click **Download** to save it  
+
+---
+
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+
+---
+
+## 📸 Screenshots
+> *(Add your screenshots here)*  
+Example:  
+![QR Generator Demo](screenshot.png)
+
+---
+
