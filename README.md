@@ -29,10 +29,3 @@ Users can enter text, URLs, or other data and download the QR code as an image.
 
 ---
 
-## 📸 Screenshots
-> *(Add your screenshots here)*  
-Example:  
-![QR Generator Demo](screenshot.png)
-
----
-
